@@ -6,5 +6,5 @@
 
 
 
-**Simulink model PNG**
+**Simulink model PNG:**
 <img width="876" height="511" alt="habitat_door_model" src="https://github.com/user-attachments/assets/0ea42fb7-cc10-41ee-a8c4-6f2d0bee3c6c" />
